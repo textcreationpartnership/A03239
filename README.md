@@ -37,24 +37,88 @@ This keyboarded and encoded edition of the
 
 #####Front#####
 
+1. Vpon the Frontispice.
+
+    _ Thus Interpreted.
+
+1. The Author to the Booke.
+
+1. GEORGE DONNE, To his industrious Friend.
+
+1. OF PHILOCOTHONISTA, The Reader: To the Author, NEPHALIOPHILVS.
+
+1. ❧ The BOOKE to the sober and discreet Reader.
+
+1. The Contents of the first Tractate.
+
+    _ The Contents of the second Tractate.
+
 #####Body#####
 
-1. Ebrietas Asinina.
+1. Philocothonista, OR THE DRVNKARD.
 
-1. Ebrietas Canina.
+    _ CHAP. I. The excellency of Sobrietie Illustrated, and the horrid effects of Drunkennesse discovered: The first for Imitation; The second for detestation, &c.
 
-1. Ebrietas Ovina.
+      * Ebrietas Asinina.
 
-1. Ebrietas Vitulina, &c.
+      * Ebrietas Canina.
 
-1. Ebrietas Vulpina.
+      * Ebrietas Ovina.
 
-1. Ebrietas Porcina.
+      * Ebrietas Vitulina, &c.
 
-1. Nestora non latuit clamor, tamen ille bibebat.
+      * Ebrietas Vulpina.
+
+      * Ebrietas Porcina.
+
+    _ CHAP. II. A Catalogue of sundry Helluoes, and great quaffers amongst the Grecians: Infamous for their vinosity.
+
+      * Nestora non latuit clamor, tamen ille bibebat.
+
+    _ CHAP. III. Of famous Wine-bibbers amongst the Romans and other Nations, &c.
+
+    _ CHAP. IIII. A particular discourse of those Nations most addicted to Vinosity and Drunkennesse: with the monstrous effects thereof, &c.
+
+    _ CHAP. V. Of severall sorts of quaffing Cups and drinking Bomles most frequent in Greece, and other Countreys.
+
+    _ CHAP. VI. A discoverie of sundry other Cups of severall Fashion and syze.
+
+    _ CHAP. VII. Of Nestors quaffing Bowle, the same which he vsed at the siege of Troy.
+
+    _ CHAP. VIII. A discourse of sev•…all sorts of Wines, and first of those most frequent in Italy.
+
+    _ CHAP. IX. The like of the Wines of Greece, and else-where, with their appellations, and opperations, &c.
+
+1. THE SECOND TRACTATE.
+
+    _ CHAP. VIII. Of our English Drunkards. The titles they give one to another, with the varietie of their drinking Cups, and Vessells.
+
+    _ CHAP. XI. What forraine Wines and sundry sorts of drinks are now frequent in this Kingdome.
+
+    _ CHAP. XII. Of a new order of drinking lately come up amongst us, call'd a drinking Schoole or Library. The degrees taken in the Schoole: The Tongues and Bookes which they studdy, with the severall titles proper to the Professors of that Art.
+
+    _ CHAP. XIII. Their phrases borrowed from severall Courts, with places of dignity vsurpt by them, both Civill and Martiall.
+
+    _ CHAP. XIIII. Of their Sea-seruice: Their new termes for new Paradoxes: Their Writing-Schoole, &c.
+
+    _ CHAP. XV. Of certaine penall Statutes enacted by Drunkards, vpon severall forfeitures committed in their healthing; with Rits that issue upon the forfeitures, &c.
+
+    _ CHAP. XVI. Of sundry Termes and Titles propper to their young Studients, with Customes to bee obserued, and •…rfits upon the breach, with divers Proverbs used amongst them, &c.
+
+    _ CHAP. XVII. Divers Cases to be put in their healthing, which have 〈◊◊〉 considered and lea•…edly 〈◊〉 amongst themsel•…s.
+
+    _ CHAP. XVIII. Divers stories of such whom i•…moderate drinking hath made most ridiculous.
+
+    _ CHAP. XIX. Of some who have liued absteinious, and altogether refrained from Wine.
+
+    _ CHAP. XX. A moderation to be obserued in drinking, borrowed from Antiquity.
+
+    _ CHAP. XXI. Of the most horrid effects of Drunkennesse, and a Christian like admonition, to Sobriety and Temperance.
 
 #####Back#####
-Philocothonista, or, The drunkard, opened, dissected, and anatomizedPhilocothonista.Heywood, Thomas,
+
+1. ERRATA.
+
 **Types of content**
 
   * There are 284 **verse** lines!
